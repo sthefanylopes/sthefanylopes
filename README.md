@@ -16,11 +16,10 @@
 ### Principais habilidades:
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&labelColor=000000)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=000000)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-000000?style=for-the-badge&logo=bootstrap&labelColor=000000)&nbsp;
 
 ### Outras habilidades:
-![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000000)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-000000?style=for-the-badge&logo=bootstrap&labelColor=000000)&nbsp;
 
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&labelColor=000000)&nbsp;
@@ -31,5 +30,6 @@
 ### Estudando neste momento:
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=00599C&labelColor=000000)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000000)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=footer"/>
