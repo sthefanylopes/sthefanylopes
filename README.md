@@ -14,22 +14,22 @@
 </div> 
 
 ### Principais habilidades:
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&labelColor=000000)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=000000)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### Outras habilidades:
-![Boostrap](https://img.shields.io/badge/-boostrap-000000?style=for-the-badge&logo=bootstrap&labelColor=000000)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&labelColor=000000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&labelColor=000000)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&labelColor=000000)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Estudando neste momento:
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=bootstrap&labelColor=000000)&nbsp;
-![C#](https://img.shields.io/badge/-C#-000000?style=for-the-badge&logo=c&logoColor=00599C&labelColor=000000)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=footer"/>
